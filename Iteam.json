@@ -1,0 +1,10 @@
+{
+    "item001": {
+        "dimension": {"length": 10, "width": 5, "height": 8},
+        "weight_per_item": 1.5
+    },
+    "item002": {
+        "dimension": {"length": 12, "width": 7, "height": 10},
+        "weight_per_item": 2.0
+    }
+}

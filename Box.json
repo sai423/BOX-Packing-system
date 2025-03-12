@@ -1,0 +1,14 @@
+{
+    "small": {
+        "dimension": {"length": 12, "width": 10, "height": 8},
+        "max_weight": 10
+    },
+    "medium": {
+        "dimension": {"length": 18, "width": 12, "height": 10},
+        "max_weight": 20
+    },
+    "large": {
+        "dimension": {"length": 24, "width": 16, "height": 14},
+        "max_weight": 30
+    }
+}
